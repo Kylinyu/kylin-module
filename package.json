@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Kylinyu/kylin-module/issues"
   },
-  "homepage": "https://github.com/Kylinyu/kylin-module#readme"
+  "homepage": "https://github.com/Kylinyu/kylin-module#readme",
+  "dependencies": {
+    "axios": "^0.19.1"
+  }
 }
